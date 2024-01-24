@@ -1,0 +1,92 @@
+.link 
+{
+    border: 7px solid royalblue;
+    background-color: darkcyan;
+    color: coral;
+    width: 300px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+.ELA
+{
+    background-color: darkslateblue;
+}
+img
+{
+    border: 5px solid rgb(54, 255, 191);
+}
+.ELAtext
+{
+    color: darkorange;
+    text-shadow: 3px 3px rgb(0, 255, 47);
+    text-align: center;
+    font-size: 70px;
+    background-color: cadetblue;
+}
+
+.navul
+{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aqua;
+    border: 7px solid aqua;
+    margin-left: 450px;
+    margin-right: 500px;
+}
+.navul1
+{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aqua;
+    border: 7px solid aqua;
+    margin-left: 450px;
+    margin-right: 500px;
+}
+.navli
+{
+    float: left;
+    display: block;
+   color: rgb(0, 0, 0);
+   text-align: center; 
+   padding: 14px 16px;
+   text-decoration: none;
+}
+.navli3
+{
+    float: left;
+    display: block;
+   color: rgb(255, 255, 255);
+   text-align: center; 
+   padding: 14px 16px;
+   text-decoration: none;
+}
+.navli2
+{
+    display: block;
+   color: rgb(0, 0, 0);
+   text-align: center; 
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 19px;
+}
+.navli4
+{
+    display: block;
+   color: rgb(255, 255, 255);
+   text-align: center; 
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 19px;
+}
+p{
+    width: 40%;
+    background-color: aqua ;
+    border: 2px solid rgb(238, 255, 0);
+    font-size: 19px;
+}
