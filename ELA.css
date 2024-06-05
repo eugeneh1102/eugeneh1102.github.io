@@ -16,6 +16,7 @@
 img
 {
     border: 5px solid rgb(54, 255, 191);
+
 }
 .ELAtext
 {
@@ -34,8 +35,8 @@ img
     overflow: hidden;
     background-color: aqua;
     border: 7px solid aqua;
-    margin-left: 450px;
-    margin-right: 500px;
+    margin-left: 350px;
+    margin-right: 400px;
 }
 .navul1
 {
@@ -45,8 +46,8 @@ img
     overflow: hidden;
     background-color: aqua;
     border: 7px solid aqua;
-    margin-left: 450px;
-    margin-right: 500px;
+    margin-left: 350px;
+    margin-right: 400px;
 }
 .navli
 {
@@ -89,4 +90,13 @@ p{
     background-color: aqua ;
     border: 2px solid rgb(238, 255, 0);
     font-size: 19px;
+    text-align: center;
+    display: flex;
+
+}
+img
+{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
